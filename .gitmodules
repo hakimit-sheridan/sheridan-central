@@ -1,3 +1,6 @@
 [submodule "10004-prog/assignment-1"]
 	path = 10004-prog/assignment-1
 	url = https://github.com/hakimit-sheridan/10004-prog_assignment-1.git
+[submodule "10004-prog/assignment-2"]
+	path = 10004-prog/assignment-2
+	url = https://hakimit-sheridan@github.com/hakimit-sheridan/10004-prog_assignment-2.git
